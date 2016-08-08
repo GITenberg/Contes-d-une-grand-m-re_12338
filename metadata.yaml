@@ -1,0 +1,33 @@
+_repo: Contes-d-une-grand-m-re_12338
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sand, George
+    aliases:
+    - Dupin, Amandine-Aurore-Lucile
+    - Dupin, Armandine Aurore Lucille
+    - Dudevant, Amandine-Aurore-Lucile
+    birthdate: 1804
+    deathdate: 1876
+    gutenberg_agent_id: '851'
+    url: http://www.gutenberg.org/2009/agents/851
+    wikipedia: http://en.wikipedia.org/wiki/George_Sand
+description: ''
+gutenberg_bookshelf: FR Contes
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12338'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Children''s stories, French'
+- GITenberg
+tableOfContents: Le chêne parlant -- Le chien et la fleur sacrée -- L'orgue du titan
+  -- Ce que disent les fleurs -- Le marteau rouge -- La fée poussière -- Le gnome
+  des huîtres -- La fée aux gros yeux.
+title: Contes d'une grand-mère
+url: http://www.gutenberg.org/ebooks/12338
